@@ -1,4 +1,4 @@
-#Doubt 
+
 //Q86: Check if a string is a palindrome.
 
 /*
@@ -43,6 +43,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
